@@ -1,5 +1,5 @@
-# Flask Portfolio App
+# My Flask Portfolio App
 Flask Portfolio App
 
-## LIVE PORTFOLIO APP...
+## MY Live Portfolio App...
 https://rob-flask.herokuapp.com/
